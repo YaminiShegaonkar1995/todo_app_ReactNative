@@ -1,1 +1,1 @@
-npm install @react-native-async-storage/async-storage - this is the dependencies, i have used for Store data locally using AsyncStorage
+npm install @react-native-async-storage/async-storage - this is the dependencies, i have used for Store data locally using AsyncStorage 
